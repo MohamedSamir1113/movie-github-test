@@ -5,7 +5,7 @@ export const MovieCard = ({movie:{title,vote_average,poster_path,release_date,or
   console.log("this is coming from ashalee");
   console.log("this is coming from bombo");
   console.log("this is coming from eeew");
-  console.log("this is coming from bad codeeee");
+  console.log("this is coming from bad codeeeerhrhtgbghffgfgfgfgfgfgfgff");
   
   return (
     <div className='movie-card'>
